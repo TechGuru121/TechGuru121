@@ -140,7 +140,7 @@ MariaDB Database
 <img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=F7C948" />
 </a>
 
-<a href="ranaakkshu008@gmail.com">
+<a href="mailto:ranaakkshu008@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-111111?style=for-the-badge&logo=gmail&logoColor=F7C948" />
 </a>
 
