@@ -47,6 +47,7 @@ Enterprise mobile app connected with ERPNext backend.
 ### Features
 - Product Catalogue
 - Price Estimation
+- Employee Attendance, Salary
 - Customer Management
 - Gamification System
 - API Integration
@@ -135,11 +136,11 @@ MariaDB Database
 <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=F7C948" />
 </a>
 
-<a href="https://www.linkedin.com/">
+<a href="[https://www.linkedin.com/](https://www.linkedin.com/in/akshay-rana-987771291/?skipRedirect=true)">
 <img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=F7C948" />
 </a>
 
-<a href="mailto:yourmail@gmail.com">
+<a href="ranaakkshu008@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-111111?style=for-the-badge&logo=gmail&logoColor=F7C948" />
 </a>
 
