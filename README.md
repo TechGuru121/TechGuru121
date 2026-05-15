@@ -136,7 +136,7 @@ MariaDB Database
 <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=F7C948" />
 </a>
 
-<a href="[https://www.linkedin.com/](https://www.linkedin.com/in/akshay-rana-987771291/?skipRedirect=true)">
+<a href="https://ww.linkedin.com/in/akshay-rana-987771291">
 <img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=F7C948" />
 </a>
 
