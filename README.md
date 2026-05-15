@@ -150,7 +150,8 @@ MariaDB Database
 
 <div align="center">
 
-### ⚡ "Building modern enterprise applications with clean UI & scalable backend systems."
+### 🕹️ Every bug in life teaches a better version of yourself."
+### 🚀 Respawn. Rebuild. Refactor. Repeat."
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=F7C948&height=120&section=footer"/>
 
