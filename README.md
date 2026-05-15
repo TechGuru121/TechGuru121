@@ -4,9 +4,9 @@
 
 # 👋 Hey, I'm Akshay Rana
 
-### 🚀 Software Developer | React Native Developer | Python Backend Developer
+### 🚀 Software Developer | Python Backend Developer
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=2500&pause=1000&color=F7C948&center=true&vCenter=true&width=700&lines=React+Native+Developer;Frappe+%2F+ERPNext+Developer;Python+Backend+Developer;Building+Enterprise+Mobile+Applications;REST+API+Developer" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=2500&pause=1000&color=F7C948&center=true&vCenter=true&width=700&lines=React+Native+Developer;Frappe+%2F+ERPNext+Developer;Python+Backend+Developer;Building+Enterprise+Mobile+Applications" />
 
 </div>
 
@@ -14,13 +14,13 @@
 
 # 💫 About Me
 
-💻 Working on enterprise-level mobile applications using React Native and ERPNext
+💻 Working on enterprise-level mobile applications using React Native and ERPNext for my organization
 
-⚡ Building scalable REST APIs using Python & Frappe Framework
+⚡ Building scalable REST APIs using Python & Frappe Framework 
 
-📱 Developing production-ready business applications
+📱 Developing production-ready REST APIS
 
-🛠 Experienced with ERP systems, SQL databases, and backend integrations
+🛠 Experienced with ERP systems, SQL databases, and backend frameworks
 
 🌱 Currently improving:
 - FastAPI
@@ -41,7 +41,7 @@
 
 # 🚀 Current Projects
 
-## 📱 Jewellery ERP Mobile Application
+## 📱 Mobile Application For Employees
 Enterprise mobile app connected with ERPNext backend.
 
 ### Features
@@ -59,18 +59,6 @@ Enterprise mobile app connected with ERPNext backend.
 - Frappe / ERPNext
 - MariaDB
 - REST APIs
-
----
-
-# 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=TechGuru121&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=F7C948&icon_color=F7C948&text_color=FFFFFF"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TechGuru121&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=F7C948&text_color=FFFFFF"/>
-
-</div>
 
 ---
 
