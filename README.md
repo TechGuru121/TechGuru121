@@ -41,7 +41,7 @@
 
 # 🚀 Current Projects
 
-## 📱 Mobile Application For Employees
+## 📱 Mobile Application For Employees 
 Enterprise mobile app connected with ERPNext backend.
 
 ### Features
@@ -71,17 +71,6 @@ Enterprise mobile app connected with ERPNext backend.
 </div>
 
 ---
-
-# 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=TechGuru121&theme=onestar&no-frame=true&row=1&column=7" />
-
-</div>
-
----
-
 # 📈 Contribution Graph
 
 <div align="center">
@@ -91,21 +80,6 @@ Enterprise mobile app connected with ERPNext backend.
 </div>
 
 ---
-
-# 🛠 Development Workflow
-
-```text
-React Native App
-        ↓
-REST API Integration
-        ↓
-Frappe / ERPNext Backend
-        ↓
-MariaDB Database
-```
-
----
-
 # 🎯 Goals for 2026
 
 - Master FastAPI Backend Development
@@ -139,7 +113,7 @@ MariaDB Database
 <div align="center">
 
 ### 🕹️ Every bug in life teaches a better version of yourself."
-### 🚀 Respawn. Rebuild. Refactor. Repeat."
+### 🚀 Restart. Rebuild. Refactor. Repeat."
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=F7C948&height=120&section=footer"/>
 
