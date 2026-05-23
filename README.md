@@ -6,7 +6,7 @@
 
 ### 🚀 Software Developer | Python Backend Developer
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=2500&pause=1000&color=F7C948&center=true&vCenter=true&width=700&lines=React+Native+Developer;Frappe+%2F+ERPNext+Developer;Python+Backend+Developer;Building+Enterprise+Mobile+Applications" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=2500&pause=1000&color=F7C948&center=true&vCenter=true&width=700&lines=Frappe+%2F+ERPNext+Developer;Python+Backend+Developer;Building+Enterprise+Mobile+Applications" />
 
 </div>
 
