@@ -61,16 +61,6 @@ Enterprise mobile app connected with ERPNext backend.
 - REST APIs
 
 ---
-
-# 🔥 GitHub Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=TechGuru121&theme=github-dark&hide_border=true&ring=F7C948&fire=F7C948&currStreakLabel=F7C948" />
-
-</div>
-
----
 # 📈 Contribution Graph
 
 <div align="center">
