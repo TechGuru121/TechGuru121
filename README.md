@@ -22,7 +22,7 @@
 
 🛠 Experienced with ERP systems, SQL databases, and backend frameworks
 
-🌱 Currently improving:
+🌱 Currently Studying:
 - FastAPI
 - Advanced Backend Architecture
 - Scalable Mobile App Development
@@ -49,7 +49,7 @@ Enterprise mobile app connected with ERPNext backend.
 - Price Estimation
 - Employee Attendance, Salary
 - Customer Management
-- Gamification System
+- Gamification Point System of Branch, Managers, Employees
 - API Integration
 - Branch Management
 
