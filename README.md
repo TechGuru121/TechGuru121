@@ -74,8 +74,7 @@ Enterprise mobile app connected with ERPNext backend.
 
 - Master FastAPI Backend Development
 - Build Scalable Production Systems
-- Improve System Design Knowledge
-- Create Advanced React Native Applications
+- Create React Native Applications
 - Contribute More Open Source Projects
 
 ---
