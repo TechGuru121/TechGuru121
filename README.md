@@ -65,7 +65,7 @@ Enterprise mobile app connected with ERPNext backend.
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=TechGuru121&theme=github-dark&bg_color=0D1117&color=F7C948&line=F7C948&point=FFFFFF&hide_border=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=TechGuru121&bg_color=0D1117&color=F7C948&line=F7C948&point=FFFFFF&area=true&hide_border=true" width="100%" />
 
 </div>
 
