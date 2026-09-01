@@ -108,4 +108,3 @@ Enterprise mobile app connected with ERPNext backend.
 
 </div>
 
-this is my github's readme.md file right now it doesn't showing contribution graph
