@@ -42,9 +42,6 @@
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/TensorFlow-111111?style=for-the-badge&logo=tensorflow&logoColor=F7C948" />
-<img src="https://img.shields.io/badge/PyTorch-111111?style=for-the-badge&logo=pytorch&logoColor=F7C948" />
-<img src="https://img.shields.io/badge/scikit--learn-111111?style=for-the-badge&logo=scikitlearn&logoColor=F7C948" />
 <img src="https://img.shields.io/badge/NumPy-111111?style=for-the-badge&logo=numpy&logoColor=F7C948" />
 <img src="https://img.shields.io/badge/Pandas-111111?style=for-the-badge&logo=pandas&logoColor=F7C948" />
 <br/>
@@ -136,7 +133,7 @@ Enterprise mobile app connected with ERPNext backend, built for organization-wid
 <div align="center">
 
 ### 🕹️ "Every bug in life teaches a better version of yourself."
-### 🚀 "Restart. Rebuild. Refactor. Repeat."
+### 🚀 "Restart. Rebuild. Repeat."
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=F7C948&height=120&section=footer"/>
 
