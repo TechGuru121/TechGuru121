@@ -102,15 +102,7 @@ Enterprise mobile app connected with ERPNext backend, built for organization-wid
 <img src="https://github-readme-stats.vercel.app/api?username=TechGuru121&show_icons=true&theme=dark&bg_color=0D1117&title_color=F7C948&icon_color=F7C948&text_color=FFFFFF&hide_border=true" height="165"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=TechGuru121&theme=dark&background=0D1117&ring=F7C948&fire=F7C948&currStreakLabel=F7C948&hide_border=true" height="165"/>
 
-<br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=TechGuru121&theme=github-dark&bg_color=0D1117&color=F7C948&line=F7C948&point=FFFFFF&hide_border=true" width="100%" />
-
-</div>
-
-> ⚠️ **If the graphs above show no activity:** go to `github.com/settings/profile` → **Contributions & activity** → enable **"Include private contributions on my profile"**. Also make sure this README lives in a repo named exactly `TechGuru121/TechGuru121` (a repo with the same name as your username) — that's the only repo GitHub renders these widgets on your profile page from.
-
----
 
 # 🎯 Goals for 2026
 
